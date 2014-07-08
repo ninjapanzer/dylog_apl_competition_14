@@ -1,0 +1,19 @@
+{
+  "name": "dylog_apl",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    "Paul Scarrone"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "apl": "http://ngn.github.io/apl/lib/apl.js"
+  }
+}
